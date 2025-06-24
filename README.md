@@ -1,12 +1,15 @@
-# WeatherApp
+# Weather App
 
-## Overview
+A simple weather application that allows users to check real-time weather for any city.
 
-This weather app, created using HTML, CSS, and JavaScript, allows users to check the current day's weather for any location by entering the desired location in a text field and clicking a search button. The app displays the temperature, timestamps, and corresponding weather icons based on the temperature. Users can easily view the weather conditions for their chosen location, making it a practical and straightforward tool for planning their day.
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+- OpenWeatherMap API
 
-## TechStack
-- Frontend: HTML, CSS, JavaScript
-- API: OpenWeatherMap API
-- Design Enhancements: CSS animations and a modern color palette
+## Features
+- Search city weather
+- Displays temperature, weather icon, and timestamps
 
 Check out its working [here](https://weatherhkapp.ccbp.tech/).
